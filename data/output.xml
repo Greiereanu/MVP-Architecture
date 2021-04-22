@@ -1,0 +1,12 @@
+<employees>
+  <employee>
+    <account>admin</account>
+    <password>admin</password>
+    <role>admin</role>
+  </employee>
+  <employee>
+    <account>employee</account>
+    <password>employee</password>
+    <role>employee</role>
+  </employee>
+</employees>
